@@ -1,5 +1,5 @@
-# Dubify
 DUBIFY VERSION 1.0.0 
+View: https://dubify.netlify.app/
 
 DESCRIPTION
 While it is fairly simple to be able to find instant AI generated subtitles for any video, it is without a doubt more benficial to have an auditory translation in the language one is comfortable in. Motivated by this idea, i decided to try and build a platform that does exactly this. 
@@ -13,7 +13,7 @@ React.js frontend and Flask backend
 
 COMMANDS:
     
-  This is the local version of my project, to find the deployed version, refer to : https://github.com/Puja304/video-dubber
+This is the local version of my project, to find the deployed version, refer to : https://github.com/Puja304/video-dubber
   To run this, clone the repository locally
 
   Then:
@@ -21,7 +21,7 @@ COMMANDS:
     1. Go to flask-server/prompt-responder.py and insert your new key in line 5: api_key="YOUR_API_KEY"
     1. cd flask-server && python -m venv venv && pip install -r requirements.txt && python app.py
     2. cd .. (back to root)
-    3. cd frontend && npm install && npm start
+    3. cd frontend && npm install && npm start. 
 
 RESULTS:
 I have been successful in adding features that allow for video uplaods, preview of the dubbing, and an option to download the dubbed video. If not inclined to wanting to clone and run the 
