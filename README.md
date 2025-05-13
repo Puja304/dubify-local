@@ -18,10 +18,10 @@ This is the local version of my project, to find the deployed version, refer to 
 
   Then:
     1. Generate a free key at https://openrouter.ai/ and copy it
-    1. Go to flask-server/prompt-responder.py and insert your new key in line 5: api_key="YOUR_API_KEY"
-    1. cd flask-server && python -m venv venv && pip install -r requirements.txt && python app.py
-    2. cd .. (back to root)
-    3. cd frontend && npm install && npm start. 
+    2. Go to flask-server/prompt-responder.py and insert your new key in line 5: api_key="YOUR_API_KEY"
+    3. cd flask-server && python -m venv venv && pip install -r requirements.txt && python app.py
+    4. cd .. (back to root)
+    5. cd frontend && npm install && npm start. 
 
 RESULTS:
 I have been successful in adding features that allow for video uplaods, preview of the dubbing, and an option to download the dubbed video. If not inclined to wanting to clone and run the 
