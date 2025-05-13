@@ -1,4 +1,4 @@
-# dubify-local
+# Dubify
 DUBIFY VERSION 1.0.0 
 
 DESCRIPTION
