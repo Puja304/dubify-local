@@ -13,7 +13,7 @@ React.js frontend and Flask backend
 
 COMMANDS:
     
-  This is the local version of my project, to find the deployed version, refer to : 
+  This is the local version of my project, to find the deployed version, refer to : https://github.com/Puja304/video-dubber
   To run this, clone the repository locally
 
   Then:
